@@ -86,3 +86,4 @@ logs/
 *.tar
 *.rar
 temp/ 
+.specstory/
