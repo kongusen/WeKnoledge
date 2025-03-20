@@ -1,0 +1,9 @@
+本文件夹用于存放文档中引用的图像文件。
+
+请将以下图像文件添加到此文件夹：
+
+1. architecture.png - 系统架构图
+2. database-schema.png - 数据库模式图
+3. document-processing.png - 文档处理流程图
+4. vector-search.png - 向量搜索原理图
+5. ui-screenshots/ - 用户界面截图文件夹 
